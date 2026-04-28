@@ -9,5 +9,8 @@ www.gtbmm.com:443#GALAXY 🪐
 www.yomabank.com:443#GALAXY🌐
 wavemoney.com:443#GALAXY⚡
 www.atompay.com:443#GALAXY⚡
-www.pyoneplay.com:443#GALAXY🪐
 twitter.com:443#TW🔰
+api.helpshift.com:443#Galaxy🪐
+gameywar.com:443#GY🎮
+app.fastbots.ai:443#FB⚽
+ 
