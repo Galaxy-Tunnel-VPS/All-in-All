@@ -1,10 +1,6 @@
-161.118.213.45:443#SG🇲🇨
-159.223.84.236:443#SG🇲🇨
-96.126.190.196:443#MY🇲🇲
-47.82.155.79:8443#SG🇲🇨
 www.cbm.gov.mm:443#GALAXY🌐
-www.mabbank.com:443#GALAXY💵
-www.uab.com.mm:443#GALAXY💵
+www.mabbank.com:443#GALAXY💵🇲🇲
+www.uab.com.mm:443#GALAXY💵🇲🇲
 www.gtbmm.com:443#GALAXY 🪐
 www.yomabank.com:443#GALAXY🌐
 wavemoney.com:443#GALAXY⚡
@@ -12,5 +8,3 @@ www.atompay.com:443#GALAXY⚡
 twitter.com:443#TW🔰
 api.helpshift.com:443#Galaxy🪐
 gameywar.com:443#GY🎮
-app.fastbots.ai:443#FB⚽
- 
