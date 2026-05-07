@@ -1,10 +1,9 @@
 www.cbm.gov.mm:443#GALAXY🌐
-www.mabbank.com:443#GALAXY💵🇲🇲
+radar.cloudflare.com:443#GALAXY💵🇲🇲
 www.uab.com.mm:443#GALAXY💵🇲🇲
-www.gtbmm.com:443#GALAXY 🪐
-www.yomabank.com:443#GALAXY🌐
+support.cloudflare.com:443#GALAXY🌐
 wavemoney.com:443#GALAXY⚡
 www.atompay.com:443#GALAXY⚡
 twitter.com:443#TW🔰
-api.helpshift.com:443#Galaxy🪐
+radar.cloudflare.com:443#Galaxy🪐
 gameywar.com:443#GY🎮
